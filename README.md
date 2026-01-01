@@ -7,9 +7,7 @@ The project consists of a comprehensive Jupyter Notebook for model development a
 <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/a0f1c927-e16e-4745-82dd-b2c31a6d2f04" />
 <img width="1788" height="495" alt="image" src="https://github.com/user-attachments/assets/4bd3172b-b2fd-4e2a-8efe-38de3b3fbc8d" />
 <img width="1790" height="902" alt="image" src="https://github.com/user-attachments/assets/54440a54-b201-4448-b2c0-a16e1d90d1fc" />
-
-
-
+<img width="846" height="547" alt="image" src="https://github.com/user-attachments/assets/0555b860-c3b8-4053-8271-164b61b3a8fe" />
 
 
 ## 🚀 Features
@@ -108,4 +106,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 👤 Author
 
+**HOSEN ARAFAT**  
+
+**Software Engineer, China**  
+
+**GitHub:** https://github.com/arafathosense
+
+**Researcher: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Image Processing**
